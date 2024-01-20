@@ -1,0 +1,1 @@
+select * from movie where categoryID=3
